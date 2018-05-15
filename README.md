@@ -1,1 +1,2 @@
 # wercker_verification
+此项目是一个对wercker持续交互的一个验证测试
